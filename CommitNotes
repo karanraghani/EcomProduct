@@ -1,0 +1,7 @@
+Commit 1:
+1. Created Models
+2. Created DTO objects
+3. Created Controller
+4. Created Service Interface, Classes
+5. Implemented FakeStroreAPI service, (adapter pattern using service interface)
+6. Displayed product detail for product_id = {id}
